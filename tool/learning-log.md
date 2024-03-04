@@ -9,7 +9,7 @@ Tool: **Aframe**
 [https://aframe.io/aframe/examples/] I used this website to see examples on how many different people used Aframe and what they created.
 
 3/4/24:
-* Now after seeing examples of afame and codes. I will try and make somthing on my own when using aframe, so i will make a sphere when using a-sphere position="-1 0.5 -3" rotation="0 45 0" color="red" /a-sphere it creates a red sphere[#4CC3D9] at position "-1, 0.5, -3", and also the sphere is rotated at an angle of "0, 45, 0".
+* Now after seeing examples of afame and codes. I will try and make somthing on my own when using aframe, so i will make a sphere when using a-sphere position="-1 0.5 -3" rotation="0 45 0" color="red" /a-sphere it creates a red sphere at a position of "-1, 0.5, -3", and also the sphere is rotated at an angle of "0, 45, 0".I used a-sky color="lightblue" /a-sky to make the sky around the sphere light-blue.
 
 
 

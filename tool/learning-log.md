@@ -11,7 +11,7 @@ Tool: **Aframe**
 * Now after seeing examples of afame and codes. I will try and make somthing on my own when using aframe, so i will make a sphere when using a-sphere position="-1 0.5 -3" rotation="0 45 0" color="red" /a-sphere it creates a red sphere at a position of "-1, 0.5, -3", and also the sphere is rotated at an angle of "0, 45, 0".I used a-sky color="lightblue" /a-sky to make the sky around the sphere light-blue.
 
 3/11/24:
-* I try to see different avaiable shapes which are "box, circle, cone, cylinder, plane, triangle, ring".to see if  could make a object that I would want to make.I watched this video to see a tutorial of Afame (https://www.youtube.com/watch?v=5KjyTU07EHo).
+* I try to see different avaiable shapes which are "box, circle, cone, cylinder, plane, triangle, ring".to see if  could make a object that I would want to make.I watched this video to see a tutorial of Afame (https://www.youtube.com/watch?v=5KjyTU07EHo).Models come in the format of plain text files containing vertices, faces, UVs, textures, materials, and animations. They also come with images for textures, usually alongside the model file. three.js loaders parse these files to render them within a three.js scene as meshes. A-Frame model components wrap these three.js loaders.
 
 <!--
 * Links you used today (websites, videos, etc)

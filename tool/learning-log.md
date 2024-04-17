@@ -14,7 +14,10 @@ Tool: **Aframe**
 * I try to see different avaiable shapes which are "box, circle, cone, cylinder, plane, triangle, ring".to see if  could make a object that I would want to make.I watched this video to see a tutorial of Afame [youtube](https://www.youtube.com/watch?v=5KjyTU07EHo).Models come in the format of plain text files containing vertices, faces, UVs, textures, materials, and animations. They also come with images for textures, usually alongside the model file. three.js loaders parse these files to render them within a three.js scene as meshes. A-Frame model components wrap these three.js loaders.
 
 3/18/24:
-* I'm going to see more showcases and have a better and more wider idea on how I will use A-frame in the freedom-project.By looking at a creation by Nasa they made a vr model of their robot rover that is in mars, you can move around by clicking anywhere on the ground.You can inspect the rover by clicking a part of it and tell you some details about it.You can make models or find models rather than making shapes you can find models in [Sketchfab](https://sketchfab.com/) and for making models you can go to [Blender](https://www.blender.org/).
+* This week I'm going to want to see more showcases and have a better and more wider idea on how I can use A-frame in the freedom-project. By looking at a creation by NASA, they made a vr model of their robot rover thats in mars, you can move around by clicking anywhere on the ground. You can inspect the rover by clicking a part of it and tell you some details about it. I can see that NASA made there own model of it so I wanted to know how I can make my own model or find one.So I resreached and found out that, you can make models or find models rather than making shapes you can find models in [Sketchfab](https://sketchfab.com/) and for making models you can go to [Blender](https://www.blender.org/).
+
+
+*
 
 <!--
 * Links you used today (websites, videos, etc)

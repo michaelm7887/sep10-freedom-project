@@ -11,6 +11,7 @@
 
 ## Fonts
 * [Teko](https://fonts.google.com/specimen/Teko)
+* []https://fonts.googleapis.com"
 
 ## Timeline
 * Basic html coding:4/17-4/19
@@ -25,4 +26,13 @@
 
 #### Beyond MVP
 
-* Task
+* Most important change to make:
+Use components and it was all one solid color.longer Content with more images, padding, css, and more to make certain things stand out.
+
+* Next-most important change to make:
+Add padding to make your information stand out more with color. Maybe add some bootstrap components, add some padding.
+
+* Least important change to make:
+Make the links into clickable links.Add a space for every period
+Explain the functions of the website
+

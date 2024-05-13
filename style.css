@@ -1,21 +1,44 @@
-div.context {
+.Tech {
     text-align: center;
     margin: 20px;
+
   }
+
   .cooking {
     font-size: 18px;
 }
- img {
 
-  padding: 10px;
-  width: 200px;
+img {
+  padding: 5px;
+  width: 230px;
+  height: 200px;
 }
-div.devices {
+
+div.Devices {
   text-align: center;
   margin: 50px;
 }
+
 p{
-  font-size: 18px;
+  font-size: 20px;
+  font-family: "Teko", system-ui;
 }
 
+h2{
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
 
+.Parts {
+  text-align: center;
+  margin: 20px;
+}
+
+.navbar-brand {
+  font-size: 100px;
+}
+
+.Aframe {
+  size:10px;
+}
